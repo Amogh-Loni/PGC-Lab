@@ -1,2 +1,0 @@
-# PGC-Lab
-hello gpt
